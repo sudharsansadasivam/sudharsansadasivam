@@ -23,14 +23,6 @@ Currently driving infrastructure excellence as a ** Multi Cloud DevOps Architect
 
 ---
 
-### 📈 Contribution & Impact
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharsansadasivam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sudharsan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsansadasivam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 - 🔭 **Current Focus:** Scaling MLOps frameworks for enterprise production environments.
 - 💬 **Ask me about:** Kubernetes optimization, Terraform module design, and automated release strategies.
