@@ -28,22 +28,12 @@
 
 ---
 
-### 🤖 Trending AI/ML Pipeline Focus
+### 🤖 AI/ML Pipeline Focus
 *Specializing in the 2026 AI Infrastructure Stack:*
 - **Orchestration:** Prefect, Kubeflow, and Ray for distributed compute.
 - **Model Ops:** BentoML for serving, DVC for versioning, and Seldon Core for deployment.
 - **Agentic AI:** Building LLM-based automation using LangChain and CrewAI.
 
----
-
-### ⚡ Professional Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharsansadasivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsansadasivam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🔭 Currently Orchestrating
 - **Autonomous Platforms:** Leveraging **Crossplane** to build internal developer platforms (IDPs).
